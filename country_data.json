@@ -1,0 +1,52 @@
+{
+  "Europe": [
+    {"en": "United Kingdom", "zh": "英国"},
+    {"en": "Ireland", "zh": "爱尔兰"},
+    {"en": "France", "zh": "法国"},
+    {"en": "Spain", "zh": "西班牙"},
+    {"en": "Germany", "zh": "德国"},
+    {"en": "Italy", "zh": "意大利"},
+    {"en": "Belgium", "zh": "比利时"},
+    {"en": "Netherlands", "zh": "荷兰"},
+    {"en": "Switzerland", "zh": "瑞士"},
+    {"en": "Sweden", "zh": "瑞典"},
+    {"en": "Norway", "zh": "挪威"},
+    {"en": "Denmark", "zh": "丹麦"},
+    {"en": "Poland", "zh": "波兰"},
+    {"en": "Ukraine", "zh": "乌克兰"},
+    {"en": "Russia", "zh": "俄罗斯"},
+    {"en": "Greece", "zh": "希腊"}
+  ],
+  "Americas": [
+    {"en": "United States", "zh": "美国"},
+    {"en": "Canada", "zh": "加拿大"},
+    {"en": "Mexico", "zh": "墨西哥"},
+    {"en": "Brazil", "zh": "巴西"},
+    {"en": "Argentina", "zh": "阿根廷"},
+    {"en": "Colombia", "zh": "哥伦比亚"},
+    {"en": "Peru", "zh": "秘鲁"},
+    {"en": "Chile", "zh": "智利"},
+    {"en": "Venezuela", "zh": "委内瑞拉"},
+    {"en": "Cuba", "zh": "古巴"},
+    {"en": "Jamaica", "zh": "牙买加"},
+    {"en": "Haiti", "zh": "海地"},
+    {"en": "Panama", "zh": "巴拿马"}
+  ],
+  "Asia": [
+    {"en": "China", "zh": "中国"},
+    {"en": "Japan", "zh": "日本"},
+    {"en": "South Korea", "zh": "韩国"},
+    {"en": "North Korea", "zh": "朝鲜"},
+    {"en": "India", "zh": "印度"},
+    {"en": "Singapore", "zh": "新加坡"},
+    {"en": "Thailand", "zh": "泰国"},
+    {"en": "Vietnam", "zh": "越南"},
+    {"en": "Indonesia", "zh": "印度尼西亚"},
+    {"en": "Malaysia", "zh": "马来西亚"},
+    {"en": "Philippines", "zh": "菲律宾"},
+    {"en": "Saudi Arabia", "zh": "沙特阿拉伯"},
+    {"en": "UAE", "zh": "阿联酋"},
+    {"en": "Iran", "zh": "伊朗"},
+    {"en": "Turkey", "zh": "土耳其"}
+  ]
+}
